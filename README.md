@@ -1,6 +1,6 @@
 # Ecommerce developer to practice
 
-![github](/client/public/images/pic1.jpg)
+![github](/client/public/images/pic1.png)
 
 ## Technologies used
 
